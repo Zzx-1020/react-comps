@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "npm": "zhangzhexin-comps",
+    "version": "0.1.2",
+    "name": "zhangzhexin-comps",
+    "description": "react-comps",
+    "jsLibrary": 1,
+    "componentLibrary": 1,
+    "platform": 1
+  },
+  "components": []
+}
